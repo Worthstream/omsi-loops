@@ -757,7 +757,7 @@
             <PrestigeSpatiomancy>Increases the number of "Findables" per zone by 10% per level.</PrestigeSpatiomancy>
             <PrestigeChronomancy>Increases speed of all zones by a multiplier of 5% per level.</PrestigeChronomancy>
             <PrestigeBartering>Increases mana received from merchants by 10% per level.</PrestigeBartering>
-            <PrestigeExpOverflow>Experience earned is spread amongst all stats by 2% per level.</PrestigeExpOverflow>
+            <PrestigeExpOverflow>Increases Experience gain by an extra 2% per level, spread among all stats</PrestigeExpOverflow>
             <PrestigeResetAll>Resets all current prestige bonuses, giving you back the points to allocate again. Note, this DOES trigger a reset, so this cannot be done mid-playthrough.</PrestigeResetAll>
         </prestige_bonus>
         <navigation>
